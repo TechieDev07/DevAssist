@@ -1,0 +1,151 @@
+title,body,label
+What is the maximum file upload size?,I need to upload files but unsure of the size limit.,question
+Allow scheduling recurring tasks,"Recurring tasks that repeat daily, weekly, or monthly.",feature
+How to migrate data from v1 to v2?,We're upgrading from version 1 and need a migration guide.,question
+Implement undo/redo functionality,Undo accidental deletions with Ctrl+Z.,feature
+What is the licence for commercial use?,We're a company; do we need a commercial licence?,question
+Dark mode toggle breaks layout,Enabling dark mode resets font size to default.,bug
+Where are logs stored?,Where can I find application log files?,question
+Search returns empty results unexpectedly,Search for exact terms returns zero results.,bug
+Race condition in queue processing,Two concurrent requests sometimes both succeed incorrectly.,bug
+How do I contact support?,Who do I contact for paid support?,question
+File upload fails with large files,Files over 10MB cause the upload to hang indefinitely.,bug
+Error 500 on POST /api/users,Server returns 500. Logs show database connection pool exhausted.,bug
+Application crashes on startup,Steps to reproduce: 1. Open app 2. Click login 3. App closes,bug
+Add advanced search filters,"Allow filtering by date range, assignee, and priority.",feature
+CSS layout broken on mobile,"On iPhone 12, sidebar overlaps main content.",bug
+How to configure environment variables?,Where do I put the DATABASE_URL and other variables?,question
+Integrate with Slack,Get notified in Slack when issues are assigned.,feature
+Authentication token expires prematurely,Users are logged out after 5 minutes despite 'remember me'.,bug
+Support GitHub OAuth login,Allow signing in with GitHub credentials.,feature
+How to set up SSL/HTTPS?,How do I configure an SSL certificate?,question
+Login button does not respond,"After the latest release, clicking the button does nothing.",bug
+How do I invite team members?,How do I add colleagues to my project?,question
+Add keyboard shortcuts,Common shortcuts like Ctrl+S to save would improve workflow.,feature
+How to migrate data from v1 to v2?,We're upgrading from version 1 and need a migration guide.,question
+Not working after latest update,"Worked fine on v1.2, broken since v1.3 upgrade.",bug
+How do I enable debug logging?,How do I turn on verbose logging for troubleshooting?,question
+How to integrate with CI/CD pipelines?,We use GitHub Actions; can this trigger builds automatically?,question
+Race condition in queue processing,Two concurrent requests sometimes both succeed incorrectly.,bug
+Support GitHub OAuth login,Allow signing in with GitHub credentials.,feature
+Allow exporting to PDF,Export reports as PDF with company branding.,feature
+How to configure environment variables?,Where do I put the DATABASE_URL and other variables?,question
+Integrate with Slack,Get notified in Slack when issues are assigned.,feature
+Support multiple languages,"Support at minimum English, Spanish, and French.",feature
+What is the maximum file upload size?,I need to upload files but unsure of the size limit.,question
+What is the licence for commercial use?,We're a company; do we need a commercial licence?,question
+Dark mode toggle breaks layout,Enabling dark mode resets font size to default.,bug
+How to integrate with CI/CD pipelines?,We use GitHub Actions; can this trigger builds automatically?,question
+Not working after latest update,"Worked fine on v1.2, broken since v1.3 upgrade.",bug
+Incorrect date formatting in reports,Dates show as MM/DD instead of DD/MM in the EU locale.,bug
+Implement real-time notifications,Push notifications for new assignments would be helpful.,feature
+Support webhook integrations,Trigger external services via HTTP webhooks.,feature
+Image resize produces artifacts,Resized images show pixelation and colour banding.,bug
+Export to CSV produces malformed output,CSV export contains extra quotes and broken line endings.,bug
+Export to CSV produces malformed output,CSV export contains extra quotes and broken line endings.,bug
+Null pointer exception in UserService,Stack trace: NullPointerException at line 42 of UserService.java,bug
+Null pointer exception in UserService,Stack trace: NullPointerException at line 42 of UserService.java,bug
+Implement drag and drop reordering,Drag items in kanban boards to reorder priority.,feature
+Can I self-host this application?,We prefer to host everything on our own servers.,question
+Application crashes on startup,Steps to reproduce: 1. Open app 2. Click login 3. App closes,bug
+Add API rate limiting controls,We need per-user API key rate limits.,feature
+How to set up SSL/HTTPS?,How do I configure an SSL certificate?,question
+Login button does not respond,"After the latest release, clicking the button does nothing.",bug
+Add API rate limiting controls,We need per-user API key rate limits.,feature
+How to configure SMTP for email notifications?,I want to receive email alerts but don't know the SMTP settings.,question
+Search returns empty results unexpectedly,Search for exact terms returns zero results.,bug
+Add two-factor authentication,"For security, please add 2FA via authenticator apps.",feature
+Is there a public API?,Is there REST API documentation I can use to build integrations?,question
+How do I reset my password?,I forgot my password and the reset email isn't arriving.,question
+Support webhook integrations,Trigger external services via HTTP webhooks.,feature
+How do I back up my data?,What is the recommended backup strategy?,question
+CSS layout broken on mobile,"On iPhone 12, sidebar overlaps main content.",bug
+Add data visualisation charts,Bar charts and pie charts for issue statistics.,feature
+Does this support Windows Server?,Our servers run Windows Server 2022.,question
+What browsers are supported?,Is IE11 supported? What about Edge?,question
+How to configure environment variables?,Where do I put the DATABASE_URL and other variables?,question
+Add dark mode support,It would be great to have a dark theme for late-night coding.,feature
+Pagination skips records,Page 2 shows the same items as page 1.,bug
+Can I use this with MongoDB Atlas?,Our database is on Atlas; is that supported?,question
+How to configure SMTP for email notifications?,I want to receive email alerts but don't know the SMTP settings.,question
+Add team collaboration features,Shared workspaces and permission roles for teams.,feature
+How to set up SSL/HTTPS?,How do I configure an SSL certificate?,question
+Is there a public API?,Is there REST API documentation I can use to build integrations?,question
+What browsers are supported?,Is IE11 supported? What about Edge?,question
+Incorrect date formatting in reports,Dates show as MM/DD instead of DD/MM in the EU locale.,bug
+Race condition in queue processing,Two concurrent requests sometimes both succeed incorrectly.,bug
+UI freezes when loading dashboard,The entire interface becomes unresponsive for 10+ seconds.,bug
+Incorrect date formatting in reports,Dates show as MM/DD instead of DD/MM in the EU locale.,bug
+Image resize produces artifacts,Resized images show pixelation and colour banding.,bug
+Does this support Windows Server?,Our servers run Windows Server 2022.,question
+Sort order reversed unexpectedly,Ascending sort shows Z before A.,bug
+What are the system requirements?,What are the minimum hardware requirements for production?,question
+Authentication token expires prematurely,Users are logged out after 5 minutes despite 'remember me'.,bug
+Implement drag and drop reordering,Drag items in kanban boards to reorder priority.,feature
+Allow exporting to PDF,Export reports as PDF with company branding.,feature
+Allow customising the dashboard layout,Users should be able to rearrange dashboard widgets.,feature
+Can I self-host this application?,We prefer to host everything on our own servers.,question
+Sort order reversed unexpectedly,Ascending sort shows Z before A.,bug
+What is the licence for commercial use?,We're a company; do we need a commercial licence?,question
+File upload fails with large files,Files over 10MB cause the upload to hang indefinitely.,bug
+Add mobile app support,iOS and Android apps for mobile access.,feature
+How do I enable debug logging?,How do I turn on verbose logging for troubleshooting?,question
+What browsers are supported?,Is IE11 supported? What about Edge?,question
+Where are logs stored?,Where can I find application log files?,question
+Allow scheduling recurring tasks,"Recurring tasks that repeat daily, weekly, or monthly.",feature
+Add data visualisation charts,Bar charts and pie charts for issue statistics.,feature
+Implement drag and drop reordering,Drag items in kanban boards to reorder priority.,feature
+Can I self-host this application?,We prefer to host everything on our own servers.,question
+Add dark mode support,It would be great to have a dark theme for late-night coding.,feature
+Support webhook integrations,Trigger external services via HTTP webhooks.,feature
+Allow scheduling recurring tasks,"Recurring tasks that repeat daily, weekly, or monthly.",feature
+Implement undo/redo functionality,Undo accidental deletions with Ctrl+Z.,feature
+Search returns empty results unexpectedly,Search for exact terms returns zero results.,bug
+Memory leak when processing large files,Memory usage grows linearly and never drops. Must restart.,bug
+How do I invite team members?,How do I add colleagues to my project?,question
+Can I use this with MongoDB Atlas?,Our database is on Atlas; is that supported?,question
+What are the system requirements?,What are the minimum hardware requirements for production?,question
+How to integrate with CI/CD pipelines?,We use GitHub Actions; can this trigger builds automatically?,question
+UI freezes when loading dashboard,The entire interface becomes unresponsive for 10+ seconds.,bug
+Support multiple languages,"Support at minimum English, Spanish, and French.",feature
+Add team collaboration features,Shared workspaces and permission roles for teams.,feature
+Authentication token expires prematurely,Users are logged out after 5 minutes despite 'remember me'.,bug
+Implement undo/redo functionality,Undo accidental deletions with Ctrl+Z.,feature
+Add two-factor authentication,"For security, please add 2FA via authenticator apps.",feature
+Is there a public API?,Is there REST API documentation I can use to build integrations?,question
+How do I back up my data?,What is the recommended backup strategy?,question
+Add advanced search filters,"Allow filtering by date range, assignee, and priority.",feature
+CSS layout broken on mobile,"On iPhone 12, sidebar overlaps main content.",bug
+Memory leak when processing large files,Memory usage grows linearly and never drops. Must restart.,bug
+Allow customising the dashboard layout,Users should be able to rearrange dashboard widgets.,feature
+Cannot connect to database after timeout,Getting connection refused errors intermittently.,bug
+Implement real-time notifications,Push notifications for new assignments would be helpful.,feature
+Add API rate limiting controls,We need per-user API key rate limits.,feature
+File upload fails with large files,Files over 10MB cause the upload to hang indefinitely.,bug
+Support multiple languages,"Support at minimum English, Spanish, and French.",feature
+Implement CSV export,We need to export issue data to CSV for reporting.,feature
+Error 500 on POST /api/users,Server returns 500. Logs show database connection pool exhausted.,bug
+Allow bulk deletion of records,Please add the ability to select and delete multiple rows at once.,feature
+Add data visualisation charts,Bar charts and pie charts for issue statistics.,feature
+Drag and drop not working in Firefox,Cannot drag items in Firefox 120.,bug
+Does this support Windows Server?,Our servers run Windows Server 2022.,question
+Allow bulk deletion of records,Please add the ability to select and delete multiple rows at once.,feature
+Cannot connect to database after timeout,Getting connection refused errors intermittently.,bug
+Is there a trial period?,Is there a free trial before purchasing?,question
+Add advanced search filters,"Allow filtering by date range, assignee, and priority.",feature
+Allow customising the dashboard layout,Users should be able to rearrange dashboard widgets.,feature
+How do I reset my password?,I forgot my password and the reset email isn't arriving.,question
+Not working after latest update,"Worked fine on v1.2, broken since v1.3 upgrade.",bug
+How do I back up my data?,What is the recommended backup strategy?,question
+Drag and drop not working in Firefox,Cannot drag items in Firefox 120.,bug
+Implement CSV export,We need to export issue data to CSV for reporting.,feature
+Image resize produces artifacts,Resized images show pixelation and colour banding.,bug
+Add team collaboration features,Shared workspaces and permission roles for teams.,feature
+Pagination skips records,Page 2 shows the same items as page 1.,bug
+Is there a trial period?,Is there a free trial before purchasing?,question
+How do I invite team members?,How do I add colleagues to my project?,question
+Add mobile app support,iOS and Android apps for mobile access.,feature
+Add keyboard shortcuts,Common shortcuts like Ctrl+S to save would improve workflow.,feature
+How do I contact support?,Who do I contact for paid support?,question
+Export to CSV produces malformed output,CSV export contains extra quotes and broken line endings.,bug
+Pagination skips records,Page 2 shows the same items as page 1.,bug
